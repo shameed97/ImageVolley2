@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageVolley</string>
+    <string name="enter_picture_name">Enter picture name</string>
+    <string name="upload">Upload</string>
+    <string name="choose">Choose</string>
+</resources>
